@@ -1,0 +1,10 @@
+.navbarcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:8px;
+width:100%;
+background-color: rgb(223, 223, 223);
+color:#222f3e;
+letter-spacing: 1px;
+}
