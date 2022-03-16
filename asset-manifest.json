@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//premkumar5951.github.io/stepperform/static/css/main.cf229ebb.css",
+    "main.js": "/https//premkumar5951.github.io/stepperform/static/js/main.c46b822e.js",
+    "index.html": "/https//premkumar5951.github.io/stepperform/index.html",
+    "main.cf229ebb.css.map": "/https//premkumar5951.github.io/stepperform/static/css/main.cf229ebb.css.map",
+    "main.c46b822e.js.map": "/https//premkumar5951.github.io/stepperform/static/js/main.c46b822e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf229ebb.css",
+    "static/js/main.c46b822e.js"
+  ]
+}
