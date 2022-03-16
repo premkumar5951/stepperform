@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stepperform/static/css/main.cf229ebb.css",
+    "main.js": "/stepperform/static/js/main.c46b822e.js",
+    "index.html": "/stepperform/index.html",
+    "main.cf229ebb.css.map": "/stepperform/static/css/main.cf229ebb.css.map",
+    "main.c46b822e.js.map": "/stepperform/static/js/main.c46b822e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf229ebb.css",
+    "static/js/main.c46b822e.js"
+  ]
+}
